@@ -28,17 +28,18 @@
 # shorter version here, and using the long version as the title of your 
 # homepage (the "title:" in the frontmatter/metadata of index.md).
 
-title: Recovery Hub Digital Edition Template
+title: Lydia Sigourney Digital Archive
 
 #############
-# Site URL #
+# 
 #############
 # baseurl matches your repository name
 # url for Recovery Hub projects is "https://recoveryhub.github.io/"
 # for non-Recovery Hub projects, check your GitHub Pages URL
 
-baseurl: "/edition_template"
-url: "https://recoveryhub.github.io/"
+
+baseurl: "/Lydia_Sigourney_Digital_Archive"
+url: https://epetrino.github.io/
 
 
 
@@ -50,9 +51,9 @@ url: "https://recoveryhub.github.io/"
 # you can do so using the Markdown file index.md.
 
 description: >- 
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear on your home page, in your document 
-  head meta for Google search results, and in your RSS feed.xml site description.
+  The Lydia Sigourney Digital Archive focuses on nineteenth-century poet, essayist, educator, and activist, Lydia Sigourney. 
+  The site is a collaboration of scholars, faculty, and students in a joint effort to make Sigourney's published books 
+  and unpublished manuscripts and letters widely available to readers.
 
 
 ####################
